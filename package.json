@@ -1,7 +1,7 @@
 {
-  "name": "webdesign",
-  "version": "1.0.0",
-  "description": "\"# website\"",
+  "name": "nodejs_server",
+  "version": "10.16.3",
+  "description": "simple web app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hicreeper/website.git"
+    "url": "git+https://github.com/seaniap/NodeJS_Server.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sean Yeh",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hicreeper/website/issues"
+    "url": "https://github.com/seaniap/NodeJS_Server/issues"
   },
-  "homepage": "https://github.com/hicreeper/website#readme"
+  "homepage": "https://github.com/seaniap/NodeJS_Server#readme"
 }
