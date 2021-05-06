@@ -1,20 +1,13 @@
 {
-  "name": "nodejs_server",
-  "version": "10.16.3",
-  "description": "simple web app",
-  "main": "server.js",
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+	"start": "node helloworld.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seaniap/NodeJS_Server.git"
-  },
-  "author": "Sean Yeh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/seaniap/NodeJS_Server/issues"
-  },
-  "homepage": "https://github.com/seaniap/NodeJS_Server#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
